@@ -4,6 +4,7 @@ public class bankaccount {
 	
 	int availablebalance,accountnumber;
 	String accountholdername,bankname;
+	String branchX;
 	
 	bankaccount(int availablebalance,int accountnumber,String accountholdername,String bankname)
 	{
